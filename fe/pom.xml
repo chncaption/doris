@@ -204,7 +204,7 @@ under the License.
         <logging-interceptor.version>4.7.2</logging-interceptor.version>
         <okhttp.version>4.7.2</okhttp.version>
         <okhttp-ws.version>3.4.2</okhttp-ws.version>
-        <okio.version>2.6.0</okio.version>
+        <okio.version>3.0.0</okio.version>
         <snakeyaml.version>1.15</snakeyaml.version>
         <validation-api.version>1.1.0.Final</validation-api.version>
         <zjsonpatch.version>0.2.3</zjsonpatch.version>
@@ -216,16 +216,16 @@ under the License.
         <javax.activation.version>1.2.0</javax.activation.version>
         <jaxws-api.version>2.3.0</jaxws-api.version>
         <RoaringBitmap.version>0.8.13</RoaringBitmap.version>
-        <spark.version>2.4.6</spark.version>
-        <hive.version>2.3.7</hive.version>
-        <hadoop.version>2.8.0</hadoop.version>
+        <spark.version>3.5.0</spark.version>
+        <hive.version>3.1.0</hive.version>
+        <hadoop.version>3.3.5</hadoop.version>
         <!-- ATTN: avro version must be consistent with Iceberg version -->
         <!-- Please modify iceberg.version and avro.version together,
          you can find avro version info in iceberg mvn repository -->
         <iceberg.version>0.12.0</iceberg.version>
         <avro.version>1.10.1</avro.version>
         <!-- hudi -->
-        <hudi.version>0.10.0</hudi.version>
+        <hudi.version>0.11.0</hudi.version>
         <parquet.version>1.10.1</parquet.version>
         <commons-collections.version>3.2.2</commons-collections.version>
         <scala.version>2.12.10</scala.version>
