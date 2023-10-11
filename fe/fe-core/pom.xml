@@ -554,7 +554,7 @@ under the License.
         <dependency>
             <groupId>software.amazon.awssdk</groupId>
             <artifactId>s3</artifactId>
-            <version>2.15.45</version>
+            <version>2.20.162</version>
         </dependency>
         <dependency>
             <groupId>org.awaitility</groupId>
