@@ -204,7 +204,7 @@ under the License.
         <dependency>
             <groupId>org.apache.hadoop</groupId>
             <artifactId>hadoop-hdfs</artifactId>
-            <version>2.7.3</version>
+            <version>2.10.1</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.apache.htrace/htrace-core -->
         <dependency>
@@ -266,7 +266,7 @@ under the License.
         <dependency>
             <groupId>org.apache.hadoop</groupId>
             <artifactId>hadoop-aws</artifactId>
-            <version>2.7.3</version>
+            <version>2.9.0</version>
         </dependency>
     </dependencies>
     <build>
