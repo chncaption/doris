@@ -222,7 +222,7 @@ under the License.
         <!-- ATTN: avro version must be consistent with Iceberg version -->
         <!-- Please modify iceberg.version and avro.version together,
          you can find avro version info in iceberg mvn repository -->
-        <iceberg.version>0.12.0</iceberg.version>
+        <iceberg.version>1.5.0</iceberg.version>
         <avro.version>1.10.1</avro.version>
         <!-- hudi -->
         <hudi.version>0.10.0</hudi.version>
@@ -235,7 +235,7 @@ under the License.
         <hamcrest.version>2.1</hamcrest.version>
         <httpclient.version>4.5.13</httpclient.version>
         <httpcore.version>4.4.15</httpcore.version>
-        <aws-java-sdk-s3.version>1.11.95</aws-java-sdk-s3.version>
+        <aws-java-sdk-s3.version>1.12.677</aws-java-sdk-s3.version>
         <mariadb-java-client.version>3.0.4</mariadb-java-client.version>
 
         <revision>1.0-SNAPSHOT</revision>
