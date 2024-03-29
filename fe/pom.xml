@@ -217,7 +217,7 @@ under the License.
         <jaxws-api.version>2.3.0</jaxws-api.version>
         <RoaringBitmap.version>0.8.13</RoaringBitmap.version>
         <spark.version>2.4.6</spark.version>
-        <hive.version>2.3.7</hive.version>
+        <hive.version>4.0.0</hive.version>
         <hadoop.version>2.8.0</hadoop.version>
         <!-- ATTN: avro version must be consistent with Iceberg version -->
         <!-- Please modify iceberg.version and avro.version together,
@@ -235,7 +235,7 @@ under the License.
         <hamcrest.version>2.1</hamcrest.version>
         <httpclient.version>4.5.13</httpclient.version>
         <httpcore.version>4.4.15</httpcore.version>
-        <aws-java-sdk-s3.version>1.11.95</aws-java-sdk-s3.version>
+        <aws-java-sdk-s3.version>1.12.690</aws-java-sdk-s3.version>
         <mariadb-java-client.version>3.0.4</mariadb-java-client.version>
 
         <revision>1.0-SNAPSHOT</revision>
