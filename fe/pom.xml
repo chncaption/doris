@@ -226,7 +226,7 @@ under the License.
         <avro.version>1.10.1</avro.version>
         <!-- hudi -->
         <hudi.version>0.10.0</hudi.version>
-        <parquet.version>1.10.1</parquet.version>
+        <parquet.version>1.14.0</parquet.version>
         <commons-collections.version>3.2.2</commons-collections.version>
         <scala.version>2.12.10</scala.version>
         <kryo.version>4.0.2</kryo.version>
