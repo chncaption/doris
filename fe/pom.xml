@@ -176,7 +176,7 @@ under the License.
         <commons-validator.version>1.7</commons-validator.version>
         <gson.version>2.8.6</gson.version>
         <guava.version>29.0-jre</guava.version>
-        <jackson.version>2.12.1</jackson.version>
+        <jackson.version>2.15.0</jackson.version>
         <jackson-mapper-asl.version>1.9.13</jackson-mapper-asl.version>
         <java-cup.version>0.11-a-czt02-cdh</java-cup.version>
         <javassist.version>3.18.2-GA</javassist.version>
@@ -199,7 +199,7 @@ under the License.
         <snappy-java.version>1.1.7.2</snappy-java.version>
         <automaton.version>1.11-8</automaton.version>
         <generex.version>1.0.1</generex.version>
-        <kubernetes-client.version>5.12.2</kubernetes-client.version>
+        <kubernetes-client.version>6.0.0</kubernetes-client.version>
         <kubernetes-model.version>5.12.2</kubernetes-model.version>
         <logging-interceptor.version>4.7.2</logging-interceptor.version>
         <okhttp.version>4.7.2</okhttp.version>
@@ -216,9 +216,9 @@ under the License.
         <javax.activation.version>1.2.0</javax.activation.version>
         <jaxws-api.version>2.3.0</jaxws-api.version>
         <RoaringBitmap.version>0.8.13</RoaringBitmap.version>
-        <spark.version>2.4.6</spark.version>
+        <spark.version>3.0.0</spark.version>
         <hive.version>2.3.7</hive.version>
-        <hadoop.version>2.8.0</hadoop.version>
+        <hadoop.version>2.9.0</hadoop.version>
         <!-- ATTN: avro version must be consistent with Iceberg version -->
         <!-- Please modify iceberg.version and avro.version together,
          you can find avro version info in iceberg mvn repository -->
