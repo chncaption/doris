@@ -225,7 +225,7 @@ under the License.
         <iceberg.version>0.12.0</iceberg.version>
         <avro.version>1.10.1</avro.version>
         <!-- hudi -->
-        <hudi.version>0.10.0</hudi.version>
+        <hudi.version>1.0.0</hudi.version>
         <parquet.version>1.10.1</parquet.version>
         <commons-collections.version>3.2.2</commons-collections.version>
         <scala.version>2.12.10</scala.version>
