@@ -193,16 +193,16 @@ under the License.
         <metrics-core.version>4.0.2</metrics-core.version>
         <netty-all.version>4.1.42.Final</netty-all.version>
         <objenesis.version>2.1</objenesis.version>
-        <grpc.version>1.30.0</grpc.version>
+        <grpc.version>1.77.0</grpc.version>
         <protobuf.version>3.14.0</protobuf.version>
         <protoparser.version>3.1.5</protoparser.version>
         <snappy-java.version>1.1.7.2</snappy-java.version>
         <automaton.version>1.11-8</automaton.version>
         <generex.version>1.0.1</generex.version>
-        <kubernetes-client.version>5.12.2</kubernetes-client.version>
+        <kubernetes-client.version>6.0.0</kubernetes-client.version>
         <kubernetes-model.version>5.12.2</kubernetes-model.version>
-        <logging-interceptor.version>4.7.2</logging-interceptor.version>
-        <okhttp.version>4.7.2</okhttp.version>
+        <logging-interceptor.version>4.9.2</logging-interceptor.version>
+        <okhttp.version>4.9.2</okhttp.version>
         <okhttp-ws.version>3.4.2</okhttp-ws.version>
         <okio.version>2.6.0</okio.version>
         <snakeyaml.version>1.15</snakeyaml.version>
@@ -225,7 +225,7 @@ under the License.
         <iceberg.version>0.12.0</iceberg.version>
         <avro.version>1.10.1</avro.version>
         <!-- hudi -->
-        <hudi.version>0.10.0</hudi.version>
+        <hudi.version>1.1.0</hudi.version>
         <parquet.version>1.10.1</parquet.version>
         <commons-collections.version>3.2.2</commons-collections.version>
         <scala.version>2.12.10</scala.version>
